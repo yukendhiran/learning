@@ -36,7 +36,6 @@ Earn recognized certifications to boost your career without spending a dime:
 
 - **[365 Data Science](https://365datascience.com/)**
 
-
 ## Great Learning without Certification
 
 These platforms offer excellent learning experiences, even without certifications:
@@ -108,6 +107,27 @@ Enhance your aptitude skills with these resources:
 
 - **[TCS iON National Qualifier Test](https://www.tcsion.com/hub/national-qualifier-test/)** [PAID]
 
-
 ## A Pirate's Guide to Free Learning
 Arrr! I be knowin' a bounty o' pirated websites and dark corners o' the web, matey. I'll plunder 'em for learnin' treasures if need be, but I won't be sharin' the map. Ye see, I've got a keen eye for free knowledge, and payin' ain't in me nature.
+
+## Personal Blogs
+
+Check out these insightful blogs written by Me:
+
+- **[Yoga for Techies](https://www.linkedin.com/pulse/yoga-techies-yukendhiran-elango?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy)**: Explore the benefits of yoga for tech professionals and learn how to incorporate mindfulness practices into your daily routine.
+
+- **[Perfect System Configuration](https://www.linkedin.com/pulse/perfect-system-configuration-yukendhiran-elango-fngic?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy)**: Discover tips and strategies for optimizing your system configuration for peak performance.
+
+## The Art of Learning
+
+Alright, I'm about to drop some unconventional advice. I think totally differently. Instead of focusing on learning how to learn effectively, let's talk about increasing your brain's computing power.
+
+Wait, what? Yeah, if you do anything out of the ordinary, the number of neurons in your brain will increase, leading to more computing power.
+
+Patterns are just illusions that you create, convincing yourself that you are a certain way and should behave accordingly.
+
+The unconventional activities I engage in really strengthen my neuromuscular strength and keep my brain healthy. Here's a snapshot of my wild journey: I go from normal to extreme exercise for several months, then suddenly stop for no reason and fall into laziness. Next, I start doing yoga for several months, get addicted to video games and series, then switch to cardio. After a while, I return to normalcy, then start doing calisthenics, drawing, crafting, and some other random activities.
+
+So, the key is randomness. Through this, you can truly build strength, flexibility, and stamina Additionally, your physical strength is directly correlated with your mental strength.
+
+This is how I gained the power to do anything at my will. It always keeps my brain curious and leads to a lot of trial and error.
