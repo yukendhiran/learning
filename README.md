@@ -75,6 +75,39 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[GitHub Skills](https://skills.github.com/)**
 
+- **[Unity Learn](https://learn.unity.com/)**
+
+- **[Epic Games Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)**
+
+- **[Learn X in Y Minutes](https://learnxinyminutes.com/)**
+
+- **[Quick Ref](https://quickref.me/index.html)**
+
 ## Official Documentation and Resources
 
-For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
+For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
+
+## Resume Resources
+
+Enhance your resume with these valuable tools:
+
+- **[Open Resume - Resume Parser](https://www.open-resume.com/resume-parser)**: Easily extract and parse information from resumes to streamline your hiring process.
+- **[Overleaf](https://www.overleaf.com/)**: Create professional-looking resumes with LaTeX templates and collaboration features offered by Overleaf.
+
+## Mental Math Resources
+
+Sharpen your mental math skills with this app:
+
+- **[Mental Math - Maths Tricks](https://play.google.com/store/apps/details?id=com.sankhyantra.mathstricks)**: Improve your calculation speed and accuracy with a variety of math tricks and exercises.
+
+## Aptitude Resources
+
+Enhance your aptitude skills with these resources:
+
+- **[Freshersworld.com - Aptitude Playlist](https://youtube.com/playlist?list=PLjLhUHPsqNYnM1DmZhIbtd9wNhPO1HGPT&si=XfLBINzTRJp5cT9P)**
+
+- **[TCS iON National Qualifier Test](https://www.tcsion.com/hub/national-qualifier-test/)** [PAID]
+
+
+## A Pirate's Guide to Free Learning
+Arrr! I be knowin' a bounty o' pirated websites and dark corners o' the web, matey. I'll plunder 'em for learnin' treasures if need be, but I won't be sharin' the map. Ye see, I've got a keen eye for free knowledge, and payin' ain't in me nature.
