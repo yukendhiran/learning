@@ -96,6 +96,18 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[MIT Open Course Ware](https://ocw.mit.edu/)**
 
+- **[Open Vim](https://www.openvim.com/)**
+
+- **[Linux Foundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)**
+
+- **[Regex Learn](https://regexlearn.com/)**
+
+- **[University of Helsinki MOOC](https://www.mooc.fi/en/courses/?tag=en)**
+
+- **[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)**
+
+- **[Project Euler](https://projecteuler.net/)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
