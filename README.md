@@ -82,6 +82,20 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Quick Ref](https://quickref.me/index.html)**
 
+- **[The Odin Project](https://www.theodinproject.com/paths)**
+
+- **[Data Pen](https://www.datapen.io/)**
+
+- **[Elements of AI](https://www.elementsofai.com/)**
+
+- **[Google Grow](https://grow.google/intl/en_in/learn-skills/)**
+
+- **[Frontend Masters](https://frontendmasters.com/courses/#free)**
+
+- **[Rapid API](https://rapidapi.com/learn)**
+
+- **[MIT Open Course Ware](https://ocw.mit.edu/)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
