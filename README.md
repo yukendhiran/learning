@@ -108,6 +108,8 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Project Euler](https://projecteuler.net/)**
 
+- **[Web.dev](https://web.dev/learn)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
