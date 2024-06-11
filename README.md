@@ -110,6 +110,10 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Web.dev](https://web.dev/learn)**
 
+- **[Tublian](https://www.tublian.com/)**
+
+- **[Daily.dev](https://daily.dev/)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
