@@ -18,7 +18,7 @@ Earn recognized certifications to boost your career without spending a dime:
 
 - **[Cisco Networking Academy](https://www.netacad.com/)**
 
-- **[DevChallenges](https://legacy.devchallenges.io/)**    [Old]
+- **[DevChallenges](https://legacy.devchallenges.io/)** [Old]
 
 - **[DevChallenges](https://devchallenges.io/)** [New]
 
@@ -35,6 +35,8 @@ Earn recognized certifications to boost your career without spending a dime:
 - **[Skills for All](https://skillsforall.com/)**
 
 - **[365 Data Science](https://365datascience.com/)**
+
+- **[University of Helsinki MOOC](https://www.mooc.fi/en/courses/?tag=en)**
 
 ## Great Learning without Certification
 
@@ -102,8 +104,6 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Regex Learn](https://regexlearn.com/)**
 
-- **[University of Helsinki MOOC](https://www.mooc.fi/en/courses/?tag=en)**
-
 - **[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)**
 
 - **[Project Euler](https://projecteuler.net/)**
@@ -140,6 +140,7 @@ Enhance your aptitude skills with these resources:
 - **[TCS iON National Qualifier Test](https://www.tcsion.com/hub/national-qualifier-test/)** [PAID]
 
 ## A Pirate's Guide to Free Learning
+
 Arrr! I be knowin' a bounty o' pirated websites and dark corners o' the web, matey. I'll plunder 'em for learnin' treasures if need be, but I won't be sharin' the map. Ye see, I've got a keen eye for free knowledge, and payin' ain't in me nature.
 
 ## Personal Blogs
