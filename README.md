@@ -114,6 +114,28 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Daily.dev](https://daily.dev/)**
 
+- **[Dev Docs](https://devdocs.io/)**
+
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/)**
+
+## VS Code Extensions
+
+Enhance your Visual Studio Code experience with these powerful extensions:
+
+- **[ZPack](https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.zpack)**
+
+- **[Codeium](https://codeium.com/)**
+
+- **[Sweet Dracula](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)**
+
+- **[Fira Code](https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.firacode)**
+
+- **[Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons)**
+
+- **[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)** [Vim Motions are Universal, Better Luck Learning That!]
+
+- **[Block Man](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
