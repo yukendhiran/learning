@@ -136,6 +136,14 @@ Enhance your Visual Studio Code experience with these powerful extensions:
 
 - **[Block Man](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)**
 
+## Browsers
+
+Explore these unique web browsers that offer enhanced features and customization:
+
+- **[Vivaldi](https://vivaldi.com)**
+
+- **[Floorp](https://floorp.app/en)**
+
 ## Official Documentation and Resources
 
 For any technology, start with its official website. They offer a wealth of resources. For example, Svelte has the best course available on its official site. Similarly, React, Qwik, Unity, and Angular also provide excellent documentation and courses. So, make sure to check the official site first.
