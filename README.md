@@ -118,6 +118,26 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/)**
 
+- **[CSS Battle](https://cssbattle.dev/)**
+
+- **[Tailwind Battle](https://www.tailwindbattle.com/daily)**
+
+- **[Teach Yourself CS](https://teachyourselfcs.com/)**
+
+- **[Gophercises](https://gophercises.com/)**
+
+- **[Go By Example](https://gobyexample.com/)**
+
+- **[Hackattic](https://hackattic.com/)**
+
+## Useful GitHub Repositories
+
+Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
+
+- **[Awesome List](https://github.com/sindresorhus/awesome)**
+
+- **[Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)**
+
 ## VS Code Extensions
 
 Enhance your Visual Studio Code experience with these powerful extensions:
