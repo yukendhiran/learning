@@ -38,6 +38,8 @@ Earn recognized certifications to boost your career without spending a dime:
 
 - **[University of Helsinki MOOC](https://www.mooc.fi/en/courses/?tag=en)**
 
+- **[API Academy](https://apiacademy.co/api-certification/)**
+
 ## Great Learning without Certification
 
 These platforms offer excellent learning experiences, even without certifications:
@@ -130,6 +132,10 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Hackattic](https://hackattic.com/)**
 
+- **[12 Factor ](https://12factor.net/)**
+
+- **[System Design By Karan](https://www.karanpratapsingh.com/courses)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
@@ -137,6 +143,8 @@ Explore these amazing repositories that compile and curate some of the best reso
 - **[Awesome List](https://github.com/sindresorhus/awesome)**
 
 - **[Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)**
+
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
 
 ## VS Code Extensions
 
