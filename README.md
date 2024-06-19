@@ -1,4 +1,4 @@
-# Yukendhiran's Learning Hub
+# daYukendhiran's Learning Hub
 
 Hi Friend! My name is Yukendhiran, and I'm putting this together just for you! If you find it useful, go ahead and use it. This hub has loads of free resources. Enjoy!
 
@@ -132,9 +132,11 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Hackattic](https://hackattic.com/)**
 
-- **[12 Factor ](https://12factor.net/)**
+- **[12 Factor](https://12factor.net/)**
 
 - **[System Design By Karan](https://www.karanpratapsingh.com/courses)**
+
+- **[App Academy Open](https://www.appacademy.io/course/app-academy-open)**
 
 ## Useful GitHub Repositories
 
