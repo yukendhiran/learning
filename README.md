@@ -138,6 +138,8 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[App Academy Open](https://www.appacademy.io/course/app-academy-open)**
 
+- **[Code With Antonio](https://www.codewithantonio.com/)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
