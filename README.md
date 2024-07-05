@@ -140,6 +140,8 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Code With Antonio](https://www.codewithantonio.com/)**
 
+- **[The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
