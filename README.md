@@ -142,6 +142,8 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)**
 
+- **[calhoun.io](https://www.calhoun.io/courses)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
