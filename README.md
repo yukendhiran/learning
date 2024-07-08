@@ -142,7 +142,9 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)**
 
-- **[calhoun.io](https://www.calhoun.io/courses)**
+- **[Calhoun.io](https://www.calhoun.io/courses)**
+
+- **[Parse Platform](https://docs.parseplatform.org/)**
 
 ## Useful GitHub Repositories
 
@@ -153,6 +155,8 @@ Explore these amazing repositories that compile and curate some of the best reso
 - **[Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)**
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
+
+- **[Learn API Design](https://github.com/dwyl/learn-api-design)**
 
 ## VS Code Extensions
 
