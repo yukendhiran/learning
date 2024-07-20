@@ -2,6 +2,10 @@
 
 Hi Friend! My name is Yukendhiran, and I'm putting this together just for you! If you find it useful, go ahead and use it. This hub has loads of free resources. Enjoy!
 
+My Sites:
+
+- **[Algorithms with Go](https://yukendhiran.github.io/GopherMasterAlgol/)**
+
 ## Roadmap Overview
 
 Get a clear path to your learning journey with these detailed roadmaps:
@@ -145,6 +149,8 @@ These platforms offer excellent learning experiences, even without certification
 - **[Calhoun.io](https://www.calhoun.io/courses)**
 
 - **[Parse Platform](https://docs.parseplatform.org/)**
+
+- **[Google Style Guide](https://google.github.io/styleguide/)**
 
 ## Useful GitHub Repositories
 
