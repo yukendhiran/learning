@@ -152,6 +152,24 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Google Style Guide](https://google.github.io/styleguide/)**
 
+- **[React Teacher](https://dailyreactproblem.vercel.app/)**
+
+- **[React Puzzles By Choubey](https://choubey.gitbook.io/react-coding-puzzles)**
+
+- **[React Practice](https://reactpractice.dev/)**
+
+- **[Reacterry](https://www.reacterry.com/)**
+
+- **[DevTools](https://www.devtools.tech/)**
+
+- **[FrontendEval](https://frontendeval.com/)**
+
+- **[Advent of JS](https://www.adventofjs.com/)**
+
+- **[AlgoChurn](https://www.algochurn.com/)**
+
+- **[Big Frontend](https://bigfrontend.dev/)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
