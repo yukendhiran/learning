@@ -170,6 +170,18 @@ These platforms offer excellent learning experiences, even without certification
 
 - **[Big Frontend](https://bigfrontend.dev/)**
 
+- **[Mordern Java](https://javabook.mccue.dev/)**
+
+- **[Spring Boot](https://spring.academy/courses)**
+
+- **[Great Frontend](https://www.greatfrontend.com/)**
+
+- **[Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)**
+
+- **[Frontend Developer Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)**
+
+- **[Tech Interview Handbook](https://www.techinterviewhandbook.org/)**
+
 ## Useful GitHub Repositories
 
 Explore these amazing repositories that compile and curate some of the best resources and project-based learning materials:
